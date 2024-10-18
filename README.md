@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Think winning<br>🌱 I’m currently learning AI Tech<br>💬 Ask me about my works<br>⚡ Fun fact I Like to play video games
+# 🌟 Welcome to My GitHub Profile! <br> 🔭 **I’m a software engineer with over two years of experience in web development.  <br> 🌱 **I’m currently learning:** AI Technologies  <br> 💬 **Ask me about my works:** I'm passionate about development and always eager to discuss my projects and ideas!
 
 
 ## 🌐 Socials:
