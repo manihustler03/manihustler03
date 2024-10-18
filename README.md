@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a software engineer in web development<br>🌱 I’m currently learning new technologies<br>💬 Ask me about my works : I'm passionate about development and always eager to discuss my projects and ideas!<br>⚡ Fun fact : I'm passionate about development and always eager to discuss my projects and ideas!
+🔭 I’m a software engineer in web development<br>🌱 I’m currently learning new technologies<br>💬 Ask me about my works : I'm passionate about development and always eager to discuss my projects and ideas!<br>⚡ Fun fact : I love playing video games! If you have any recommendations, let me know!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sundara_manikandan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundara-manikandan-g03/) 
